@@ -30,6 +30,8 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 - Program to find armstrong number
 - Program to delete vowels.
 - Program to count special characters.
+- Program to calculate the sum of integers present in a given string.
+- Program to find all the non repeating characters in a string.
 
 # SQL Query Problems
 <img width="200px" src="./sql.png" alt="Python"  align="right" />
@@ -57,3 +59,5 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 - Find average selling price.
 - Find each student given how many exams for each subject.
 - Find the products ordered in a particular period.
+- Find the distance travelled by each user.
+- Group all the products sold on a particular date.

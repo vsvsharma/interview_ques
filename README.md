@@ -27,6 +27,11 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 - Program to remove the targeted element from an array.
 - Program to remove an element which is present at a given index in an array.
 - Program to find the sum of all elements present in an array.
+- Program to find armstrong number
+- Program to delete vowels.
+- Program to count special characters.
+- Program to calculate the sum of integers present in a given string.
+- Program to find all the non repeating characters in a string.
 
 # SQL Query Problems
 <img width="200px" src="./sql.png" alt="Python"  align="right" />
@@ -51,3 +56,8 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 - Find the name of the product which is sold only in the first quater of the year.
 - Find the number of users active on a period of 30 days.
 - Reformat the table such that there is a department id column and a revenue column for each month.
+- Find average selling price.
+- Find each student given how many exams for each subject.
+- Find the products ordered in a particular period.
+- Find the distance travelled by each user.
+- Group all the products sold on a particular date.

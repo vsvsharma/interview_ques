@@ -32,6 +32,11 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 - Program to count special characters.
 - Program to calculate the sum of integers present in a given string.
 - Program to find all the non repeating characters in a string.
+- Program to sort the characters in string in an ascending order.
+- Progra to find missing number in an array.
+- Program to remove a given key from a dictionary.
+- Program to merge two dictionaries.
+- Pogram to sort key value pairs in a dictionary.
 
 # SQL Query Problems
 <img width="200px" src="./sql.png" alt="Python"  align="right" />
@@ -61,3 +66,8 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 - Find the products ordered in a particular period.
 - Find the distance travelled by each user.
 - Group all the products sold on a particular date.
+- Find all the valid emails.
+- Persons with a diabetes one.
+- Bank account summary and returning the balance after all transactions.
+- Find the percentage of users participated in contest.
+- Find average processing time of machines.

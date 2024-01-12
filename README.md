@@ -33,10 +33,15 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 - Program to calculate the sum of integers present in a given string.
 - Program to find all the non repeating characters in a string.
 - Program to sort the characters in string in an ascending order.
-- Progra to find missing number in an array.
+- Program to find missing number in an array.
 - Program to remove a given key from a dictionary.
 - Program to merge two dictionaries.
-- Pogram to sort key value pairs in a dictionary.
+- Program to sort key value pairs in a dictionary.
+- Program to find the length of the longest substring.
+- Program to find the number of good pairs.
+- Program to find the jewels contain the stones or not.
+- Program to find number of elements smaller than the elements present in the array.
+- Program to check the given is pangram or not. 
 
 # SQL Query Problems
 <img width="200px" src="./sql.png" alt="Python"  align="right" />
@@ -71,3 +76,8 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 - Bank account summary and returning the balance after all transactions.
 - Find the percentage of users participated in contest.
 - Find average processing time of machines.
+- Correct the username that is only first letter as uppercase and rest as the lowercase.
+- Find the unique leads and partners.
+- Find the followers count of each user.
+- Find the employee who report to the other emplyee ie. to find out their manager.
+- Find the time spent by each employee in the office.

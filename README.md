@@ -42,6 +42,11 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 - Program to find the jewels contain the stones or not.
 - Program to find number of elements smaller than the elements present in the array.
 - Program to check the given is pangram or not. 
+- Program to grade the students and rounding off according to rouding off measures.
+- Program to find the total number of apples and oranges.
+- Program to find the number of transformation made by using the morse code.
+- Program to count the number of consistent string which is declared in the allowed namely variable.
+- Program to find the subarrays of distinct arrays.
 
 # SQL Query Problems
 <img width="200px" src="./sql.png" alt="Python"  align="right" />
@@ -81,3 +86,8 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 - Find the followers count of each user.
 - Find the employee who report to the other emplyee ie. to find out their manager.
 - Find the time spent by each employee in the office.
+- Reformat the store table and rearrange the columns in the table.
+- Calculate the special bonus of the employee whose employee id is odd and name dont start with 'M' then they get 100% of their salary as bonus else zero.
+- Find the number of user who have their latest last login in the year 2020.
+- Find the employees who have a missing info either in name or salary table.
+- Find the number of unique subjects taught by each teacher.

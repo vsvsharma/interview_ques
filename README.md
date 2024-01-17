@@ -47,6 +47,11 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 - Program to find the number of transformation made by using the morse code.
 - Program to count the number of consistent string which is declared in the allowed namely variable.
 - Program to find the subarrays of distinct arrays.
+- Program to sort the dictionary on the basis on either key or value.
+- Program to find the sum of all elements present in the dictionary.
+- Program to insert the key at the begining of the dictionary.
+- Program to find the common elements among all the three arrays using the dictionary intersection.
+- Program to find the winner of the voting system.
 
 # SQL Query Problems
 <img width="200px" src="./sql.png" alt="Python"  align="right" />
@@ -91,3 +96,8 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 - Find the number of user who have their latest last login in the year 2020.
 - Find the employees who have a missing info either in name or salary table.
 - Find the number of unique subjects taught by each teacher.
+- Find the employees whose salary is less than 30k and their manager has also left the company.
+- Find the second highest salary in the table.
+- Assign the ranking based on the score and then rearrange them accordingly.
+- Find the consecutive numbers in the table which occured atleast three times.
+- Find the manager who have atleast five direct reporting to him.

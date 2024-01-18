@@ -7,51 +7,56 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 # Python Problems
 <img width="200px" src="./python.png" alt="Python"  align="right" />
 
-- Add given two binary numbers.
-- Check whether the word is anangram or not.
-- Find the index of theFist Occurence in a string.
-- Find the length of the last word in the string.
-- Remove the duplicates from the sorted array.
-- Program to find the largest element in list.
-- Progrm to find the frequency of each element present in the list or a list. 
-- Program to find the common elements between the two list.
-- Program to remove duplicates from a list and return the unique elements.
-- Program to sort the given list using bubble sort technique.
-- Program to find the missing element in a sorted array.
-- Program to reverse the array without using the inbuilt reverse function.
-- Program to remove the given character from a string.
-- Program to find the given pairs whose value is equal to the target.
-- Program to find the even elements present in an array.
-- Program to find the odd elements present in a array.
-- Program to find the top two elements present in an array.
-- Program to remove the targeted element from an array.
-- Program to remove an element which is present at a given index in an array.
-- Program to find the sum of all elements present in an array.
-- Program to find armstrong number
-- Program to delete vowels.
-- Program to count special characters.
-- Program to calculate the sum of integers present in a given string.
-- Program to find all the non repeating characters in a string.
-- Program to sort the characters in string in an ascending order.
-- Program to find missing number in an array.
-- Program to remove a given key from a dictionary.
-- Program to merge two dictionaries.
-- Program to sort key value pairs in a dictionary.
-- Program to find the length of the longest substring.
-- Program to find the number of good pairs.
-- Program to find the jewels contain the stones or not.
-- Program to find number of elements smaller than the elements present in the array.
-- Program to check the given is pangram or not. 
-- Program to grade the students and rounding off according to rouding off measures.
-- Program to find the total number of apples and oranges.
-- Program to find the number of transformation made by using the morse code.
-- Program to count the number of consistent string which is declared in the allowed namely variable.
-- Program to find the subarrays of distinct arrays.
-- Program to sort the dictionary on the basis on either key or value.
-- Program to find the sum of all elements present in the dictionary.
-- Program to insert the key at the begining of the dictionary.
-- Program to find the common elements among all the three arrays using the dictionary intersection.
-- Program to find the winner of the voting system.
+1) Add given two binary numbers.
+2) Check whether the word is anangram or not.
+3) Find the index of theFist Occurence in a string.
+4) Find the length of the last word in the string.
+5) Remove the duplicates from the sorted array.
+6) Program to find the largest element in list.
+7) Progrm to find the frequency of each element present in the list or a list. 
+8) Program to find the common elements between the two list.
+9) Program to remove duplicates from a list and return the unique elements.
+10) Program to sort the given list using bubble sort technique.
+11) Program to find the missing element in a sorted array.
+12) Program to reverse the array without using the inbuilt reverse function.
+13) Program to remove the given character from a string.
+14) Program to find the given pairs whose value is equal to the target.
+15) Program to find the even elements present in an array.
+16) Program to find the odd elements present in a array.
+17) Program to find the top two elements present in an array.
+18) Program to remove the targeted element from an array.
+19) Program to remove an element which is present at a given index in an array.
+22) Program to find the sum of all elements present in an array.
+21) Program to find armstrong number
+22) Program to delete vowels.
+23) Program to count special characters.
+24) Program to calculate the sum of integers present in a given string.
+25) Program to find all the non repeating characters in a string.
+26) Program to sort the characters in string in an ascending order.
+27) Program to find missing number in an array.
+28) Program to remove a given key from a dictionary.
+29) Program to merge two dictionaries.
+30) Program to sort key value pairs in a dictionary.
+31) Program to find the length of the longest substring.
+32) Program to find the number of good pairs.
+33) Program to find the jewels contain the stones or not.
+34) Program to find number of elements smaller than the elements present in the array.
+35) Program to check the given is pangram or not. 
+36) Program to grade the students and rounding off according to rouding off measures.
+37) Program to find the total number of apples and oranges.
+38) Program to find the number of transformation made by using the morse code.
+39) Program to count the number of consistent string which is declared in the allowed namely variable.
+40) Program to find the subarrays of distinct arrays.
+41) Program to sort the dictionary on the basis on either key or value.
+42) Program to find the sum of all elements present in the dictionary.
+43) Program to insert the key at the begining of the dictionary.
+44) Program to find the common elements among all the three arrays using the dictionary intersection.
+45) Program to find the winner of the voting system.
+46) Program to find the duplicate characters in a string using counter and dictionary.
+47) Program to find the key with the most unique values in a dictionary
+48) Program to group the similar values in a list using dictionary.
+49) Program to replace a string with the kth value of the similar key of the dictionary.
+50) Program to find the possible words(some words already declared) made by the characters given in an array. 
 
 # SQL Query Problems
 <img width="200px" src="./sql.png" alt="Python"  align="right" />

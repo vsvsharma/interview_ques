@@ -61,48 +61,53 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 # SQL Query Problems
 <img width="200px" src="./sql.png" alt="Python"  align="right" />
 
-- Combine the given two tables.
-- Customers who never orders.
-- Delete duplicate emails.
-- Find & return the duplicate emails in the table.
-- Find the employee whose salary is more than its manager.
-- Find the login dates of the players for playing the game.
-- Find the bonus of the employee whose value is less than 500 and return the rest table with null values. 
-- Find the customer who have placed the largest number of orders.
-- Find the big countries on the basis of their area and populaton.
-- Find the class which has more than five students. 
-- Find the names of all the salespersons who did not have any orders related to the company with the name "RED".
-- Given three sides of a trinagle, check whether they can form a triangle or not.
-- Find the unique number in the table which occured only once and out of from unique numbers,maximum number should be returned.
-- Find the movies which are having the description of not boring and also filter out the results in order of descending.
-- Swap the values of the sex and salary column with each other.
-- Find the actor and directors who have cooperated atleast three times together.
-- Find the experience of all employees in a project.
-- Find the name of the product which is sold only in the first quater of the year.
-- Find the number of users active on a period of 30 days.
-- Reformat the table such that there is a department id column and a revenue column for each month.
-- Find average selling price.
-- Find each student given how many exams for each subject.
-- Find the products ordered in a particular period.
-- Find the distance travelled by each user.
-- Group all the products sold on a particular date.
-- Find all the valid emails.
-- Persons with a diabetes one.
-- Bank account summary and returning the balance after all transactions.
-- Find the percentage of users participated in contest.
-- Find average processing time of machines.
-- Correct the username that is only first letter as uppercase and rest as the lowercase.
-- Find the unique leads and partners.
-- Find the followers count of each user.
-- Find the employee who report to the other emplyee ie. to find out their manager.
-- Find the time spent by each employee in the office.
-- Reformat the store table and rearrange the columns in the table.
-- Calculate the special bonus of the employee whose employee id is odd and name dont start with 'M' then they get 100% of their salary as bonus else zero.
-- Find the number of user who have their latest last login in the year 2020.
-- Find the employees who have a missing info either in name or salary table.
-- Find the number of unique subjects taught by each teacher.
-- Find the employees whose salary is less than 30k and their manager has also left the company.
-- Find the second highest salary in the table.
-- Assign the ranking based on the score and then rearrange them accordingly.
-- Find the consecutive numbers in the table which occured atleast three times.
-- Find the manager who have atleast five direct reporting to him.
+1) Combine the given two tables.
+2) Customers who never orders.
+3) Delete duplicate emails.
+4) Find & return the duplicate emails in the table.
+5) Find the employee whose salary is more than its manager.
+6) Find the login dates of the players for playing the game.
+7) Find the bonus of the employee whose value is less than 500 and return the rest table with null values. 
+8) Find the customer who have placed the largest number of orders.
+9) Find the big countries on the basis of their area and populaton.
+10) Find the class which has more than five students. 
+11) Find the names of all the salespersons who did not have any orders related to the company with the name "RED".
+12) Given three sides of a trinagle, check whether they can form a triangle or not.
+13) Find the unique number in the table which occured only once and out of from unique numbers,maximum number should be returned.
+14) Find the movies which are having the description of not boring and also filter out the results in order of descending.
+15) Swap the values of the sex and salary column with each other.
+16) Find the actor and directors who have cooperated atleast three times together.
+17) Find the experience of all employees in a project.
+18) Find the name of the product which is sold only in the first quater of the year.
+19) Find the number of users active on a period of 30 days.
+20) Reformat the table such that there is a department id column and a revenue column for each month.
+21) Find average selling price.
+22) Find each student given how many exams for each subject.
+23) Find the products ordered in a particular period.
+24) Find the distance travelled by each user.
+25) Group all the products sold on a particular date.
+26) Find all the valid emails.
+27) Persons with a diabetes one.
+28) Bank account summary and returning the balance after all transactions.
+29) Find the percentage of users participated in contest.
+30) Find average processing time of machines.
+31) Correct the username that is only first letter as uppercase and rest as the lowercase.
+32) Find the unique leads and partners.
+33) Find the followers count of each user.
+34) Find the employee who report to the other emplyee ie. to find out their manager.
+35) Find the time spent by each employee in the office.
+36) Reformat the store table and rearrange the columns in the table.
+37) Calculate the special bonus of the employee whose employee id is odd and name dont start with 'M' then they get 100% of their salary as bonus else zero.
+38) Find the number of user who have their latest last login in the year 2020.
+39) Find the employees who have a missing info either in name or salary table.
+40) Find the number of unique subjects taught by each teacher.
+41) Find the employees whose salary is less than 30k and their manager has also left the company.
+42) Find the second highest salary in the table.
+43) Assign the ranking based on the score and then rearrange them accordingly.
+44) Find the consecutive numbers in the table which occured atleast three times.
+45) Find the manager who have atleast five direct reporting to him.
+46) Find the total investment in the 2016.
+47) Find the person who has the more friends.
+48) Find the nodes of the tree whether its a root or anything else.
+49) Exchange the seats of the students.
+50) Find the customers who bought all the products.

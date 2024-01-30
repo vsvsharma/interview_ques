@@ -67,6 +67,11 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 58) Program to find the captains room number which is only a unique element in the list.
 59) Program to find the first letter which appeared twice.
 60) Program to find the missing number in the array.
+61) Program to display name with the default text.
+62) Program to find the occurence of substring in the string.
+63) Program to print the day of the mentioned date.
+64) Program to check the given whole sentence is a valid palindrome or not.
+65) Program to find the number which occured only once.
 
 # SQL Query Problems
 <img width="200px" src="./sql.png" alt="Python"  align="right" />
@@ -131,3 +136,8 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 58) Write a solution to find the names in alphabetical order.
 59) Write a solution to find the employee who is employed less than 10 months and salary more than 2000.
 60) Write a solution to find the type of triangle.
+61) Query to return every attribute from city table for country JAPAN.
+62) Find all the unique cities which have an even id.
+63) Find the difference between the total cities and the unique cities.
+64) Find the shortest and the longest city names with its length.
+65) Find all the cities whose name is starting with vowels. 

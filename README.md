@@ -56,7 +56,12 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 47) Program to find the key with the most unique values in a dictionary
 48) Program to group the similar values in a list using dictionary.
 49) Program to replace a string with the kth value of the similar key of the dictionary.
-50) Program to find the possible words(some words already declared) made by the characters given in an array. 
+50) Program to find the possible words(some words already declared) made by the characters given in an array.
+51) Program to count the number of common elements between two arrays. 
+52) Program to find maximum number of string pairs.
+53) Program to sort the people according to their given heights.
+54) Program to find the destination city.
+55) Program to find the sum of only unique elements in the list.
 
 # SQL Query Problems
 <img width="200px" src="./sql.png" alt="Python"  align="right" />
@@ -111,3 +116,8 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 48) Find the nodes of the tree whether its a root or anything else.
 49) Exchange the seats of the students.
 50) Find the customers who bought all the products.
+51) Write a solution to select the product id, year, quantity, and price for the first year of every product sold.
+52) Write a solution to find for each user, the join date and the number of orders they made as a buyer in 2019.
+53) Write a solution to find the percentage of immediate orders in the first orders of all customers, rounded to 2 decimal places. If the customer's preferred delivery date is the same as the order date, then the order is called immediate; otherwise, it is called scheduled.
+54) Write an SQL query to find for each month and country, the number of transactions and their total amount, the number of approved transactions and their total amount.
+55) Write a solution to find the person_name of the last person that can fit on the bus without exceeding the weight limit. The test cases are generated such that the first person does not exceed the weight limit. There is a queue of people waiting to board a bus. However, the bus has a weight limit of 1000 kilograms, so there may be some people who cannot board.

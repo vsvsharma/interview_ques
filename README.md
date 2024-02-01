@@ -62,6 +62,11 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 53) Program to sort the people according to their given heights.
 54) Program to find the destination city.
 55) Program to find the sum of only unique elements in the list.
+56) Program to find the number of unique occurence for each element in the dict.
+57) Program to find the income of person by selling shoes.
+58) Program to find the captains room number which is only a unique element in the list.
+59) Program to find the first letter which appeared twice.
+60) Program to find the missing number in the array.
 
 # SQL Query Problems
 <img width="200px" src="./sql.png" alt="Python"  align="right" />
@@ -121,3 +126,8 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 53) Write a solution to find the percentage of immediate orders in the first orders of all customers, rounded to 2 decimal places. If the customer's preferred delivery date is the same as the order date, then the order is called immediate; otherwise, it is called scheduled.
 54) Write an SQL query to find for each month and country, the number of transactions and their total amount, the number of approved transactions and their total amount.
 55) Write a solution to find the person_name of the last person that can fit on the bus without exceeding the weight limit. The test cases are generated such that the first person does not exceed the weight limit. There is a queue of people waiting to board a bus. However, the bus has a weight limit of 1000 kilograms, so there may be some people who cannot board.
+56) Write a solution to report the Capital gain/loss for each stock.
+57) Write a solution to find the students who got more than 75.
+58) Write a solution to find the names in alphabetical order.
+59) Write a solution to find the employee who is employed less than 10 months and salary more than 2000.
+60) Write a solution to find the type of triangle.

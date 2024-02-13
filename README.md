@@ -72,6 +72,11 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 63. Program to print the day of the mentioned date.
 64. Program to check the given whole sentence is a valid palindrome or not.
 65. Program to find the number which occured only once.
+66. Program to find the sum of list of numbers using recursion.
+67. Program to check the number is palindrome or not using recursion.
+68. Program to count the consonants in the string.
+69. Program to find factorial of a number using recursion.
+70. Program to print the fibonacci series using recursion.
 
 # SQL Query Problems
 <img width="200px" src="./sql.png" alt="Python"  align="right" />
@@ -141,3 +146,8 @@ Comprehensive Interview Question Repository –ultimate resource for preparing a
 63. Find the difference between the total cities and the unique cities.
 64. Find the shortest and the longest city names with its length.
 65. Find all the cities whose name is starting with vowels. 
+66. Find the city in the country with more than 120000 population.
+67. Find the unique cities whose name ending with the vowels.
+68. Find the unique cities whose name starts and ends with vowels.
+69. Find the unqiue cities whose name do not start with vowels.
+70. Find the unqiue cities whose name do not end with vowels.
